@@ -19,7 +19,7 @@ Web Project : https://github.com/seoyoungshinn/watchOut_Page
 
 ## 프로젝트 구조도
 
-
+<img width="563" alt="구조도" src="https://user-images.githubusercontent.com/71977525/191685876-086e6490-e68b-4fb7-8aa2-0db1aa4acea6.png">
 
 ## 실행 영상
   
@@ -27,7 +27,17 @@ Web Project : https://github.com/seoyoungshinn/watchOut_Page
 
 ## 기대 효과
 
+* 개인적
+  * 시각 장애인의 자립심 증대
+  * 모니터링을 통한 위급상황 대처
+
+* 사회적
+  * 사회적 약자의 사회 참여 효과
+  * 보조 공학 장치 발전의 촉진    
+
 ## 사용 기술
 
-
-
+| 개발 환경 | 개발 언어 | 개발 도구 |주요 기술|
+|-----|-----|----|------|
+| Windows10 |Kotlin, HTML5,|Android Studio,|API(Kakao, Tmap, BioSensor), MQTT,|
+||JavaScript|Visual Studio |Flask, GPS, FireBase, Amazon Ec2|
